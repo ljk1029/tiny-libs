@@ -1,6 +1,7 @@
 ### 目录结构
 
-cpp-micro-libs/
+```
+tiny-libs/
 ├── README.md                  # 仓库说明文档，包含学习路线和贡献指南
 ├── docs/                      # 相关文档资料
 │   ├── lib-introduction.md    # 各库的简介和适用场景
@@ -30,7 +31,7 @@ cpp-micro-libs/
     ├── build.sh
     └── run_app.sh
 └── tool/                      # 工具类
-
+```
 
 ### version
 - v1.0.0

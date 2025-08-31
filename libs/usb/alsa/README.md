@@ -1,1 +1,1 @@
-### linux alsa 发生驱动
+### linux alsa 发声驱动
