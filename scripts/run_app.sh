@@ -1,0 +1,1 @@
+todo: add commands to run the built applications
